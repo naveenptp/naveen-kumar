@@ -1,4 +1,14 @@
 Microlearning app (web or mobile app)
 
-I want to Build an application that sends you one page per day about something which
+I want to Build an application that sends you two pages per day about something which
 i want to learn courses like javascript,react js form a website.
+
+
+requirements:
+
+1.on opening the main page we have search bar and search button
+2.after clicking the search button it will open the website
+3.after opening the website it contain courses 
+4.after clicking the particular course names it will open the course  content
+5.in course content there will be several topics(topic links).
+6.after clicking topic link ,it will send notification to our app
