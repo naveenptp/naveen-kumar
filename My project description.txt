@@ -12,3 +12,18 @@ requirements:
 4.after clicking the particular course names it will open the course  content
 5.in course content there will be several topics(topic links).
 6.after clicking topic link ,it will send notification to our app
+
+
+
+
+          
+
+   In the app we have bookmark or whishlist section.
+   It contains the website list in which i want to get the topics for a course
+   I want a particular topic to sent as a notification to my mobile.
+   i want to add some functionality like the topic shoud be sent as notification at a particular time in a day and 
+   also i want to add functionality like in a particular day it should send the selected topics as notification to mobile as a remainder. 
+
+
+
+       
